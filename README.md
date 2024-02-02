@@ -1,3 +1,3 @@
 # Landing-page
 This is my first repository.
-Author-abhishek Bacche.
+Author-Abhishek Bacche.
